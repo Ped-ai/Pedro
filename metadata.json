@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Afiches Diarios",
+  "description": "Cree y personalice hermosos afiches conmemorativos del día actual o de cualquier celebración con inteligencia artificial y un chat interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
